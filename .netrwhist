@@ -1,8 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/mton/Dropbox/Code/mtonCode/Maya/rig_Prototype/scripts'
 let g:netrw_dirhist_2='/Users/mton/Dropbox/Code/mtonCode/Maya/rig_Prototype/shaders'
 let g:netrw_dirhist_3='/Users/mton/Dropbox/Code/mtonCode/Maya/rig_Prototype'
 let g:netrw_dirhist_4='/Users/mton/Dropbox/Code/gitHub/simplecv/install'
 let g:netrw_dirhist_5='/Users/mton/Dropbox/Code/gitHub/simplecv/install/mac'
 let g:netrw_dirhist_6='/Users/mton/.vim'
+let g:netrw_dirhist_7='/Users/mton/.vim/bundle/Gundo'
