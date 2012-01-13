@@ -32,6 +32,8 @@ call pathogen#runtime_append_all_bundles()
 filetype plugin indent on
 
 set nocompatible
+set laststatus=2 " Always show the statusline
+
 let mapleader = ","
 imap jj <Esc> " Professor VIM says '87% of users prefer jj over esc', jj abrams disagrees
 
@@ -105,7 +107,7 @@ set smartcase " Ignore case when searching lowercase
 
 
 " Colors **********************************************************************
-"set t_Co=256 " 256 colors
+set t_Co=256 " 256 colors
 set background=dark 
 syntax on " syntax highlighting
 colorscheme ir_black
